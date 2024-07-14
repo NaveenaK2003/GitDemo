@@ -1,0 +1,2 @@
+Test2.txt is created in GitHub Repository 
+Now this file is inserted into local file using commands like "git pull"
